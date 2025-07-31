@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
 
-export default function Navbar() {
+export default function NavBar() {
   return (
     <div className="navbar bg-base-100 text-red-500 bg-yellow-500 font-serif font-bold">
       <div className="navbar-start">

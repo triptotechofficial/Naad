@@ -1,10 +1,10 @@
 import React from 'react'
-import NavBar from "../components/NavBar";
+import NavBar from "../components/NavBar.jsx";
 import bg from '../image/bg.jpg';
 const HomePage = () => {
   return (
     <>
-      <Navbar />
+      <NavBar />
       <div
         className="min-h-screen bg-cover bg-center bg-no-repeat"
         style={{ backgroundImage: `url(${bg})` }}

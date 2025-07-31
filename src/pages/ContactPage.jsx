@@ -1,9 +1,10 @@
 import React from 'react'
-import Navbar from '../components/navBar'
+import NavBar from "../components/NavBar";
+
 
 const ContactPage = () => {
   return (
-    <div><Navbar/>
+    <div><NavBar/>
     <h1 className='font-mono text-pink-500 text-center py-3'>Hey this is our Contact page 📞</h1> </div>
   )
 }

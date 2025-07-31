@@ -10,7 +10,7 @@ const HomePage = () => {
         style={{ backgroundImage: `url(${bg})` }}
       >
         <h1 className="font-mono text-blue-500 text-center py-3">
-          Hey this is our Home page thank you for visiting us😌
+          
         </h1>
       </div>
     </>
